@@ -91,7 +91,7 @@ AI가 추천한 메뉴: 버거 세트
 #### 3. 실제 섭취 및 인증 ✅
 
 AI 추천대로 햄버거 세트를 주문해서 먹음
-<img width="547" height="764" alt="image" src="https://gist.github.com/user-attachments/assets/57b34b58-0087-4c58-b31a-350f2f8b699b" />
+<img width="547" height="764" alt="image" src="https://i.ibb.co/HDBH0bnd/image.png" />
 
 ### 💭 소감
 평소에 미션 수행에 급급해서 점심을 대충 때우곤 했는데, 이번 퀘스트를 통해 해시태그 키워드로 AI에게 햄버거를 추천받아 제대로 된 맛있는 식사를 할 수 있었습니다. 특히 슬랙에 AI 추천 과정과 인증샷을 공유하면서 캠퍼분들, JK님과 자연스럽게 소통할 수 있는 계기가 생긴 점이 가장 좋았어요. 단순한 점심 선택이었지만 미션에 지친 일상에 환기를 가져다준 의미 있는 경험이었습니다!
